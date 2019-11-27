@@ -1,0 +1,9 @@
+MIDlet-Name: AirFighter 
+MIDlet-Version: 2.0 
+MIDlet-Vendor: Sun Microsystems, Inc. 
+MIDlet-Description: AirFighter Game by MIDP. 
+MicroEdition-Configuration: CLDC-1.0 
+MicroEdition-Profile: MIDP-2.0 
+MIDlet-1: AirFighter, /resource/image/Logo_Icon.png, org.mygame.airfighter.midlet.AirFighterMIDlet 
+MIDlet-Jar-URL: http://localhost:8082/j2me/midp/AirFighter.jar
+MIDlet-Jar-Size: 9774007

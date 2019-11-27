@@ -1,0 +1,9 @@
+Manifest-Version: 1.0 
+MicroEdition-Configuration: CLDC-1.0 
+MicroEdition-Profile: MIDP-2.0 
+MIDlet-Version: 2.0 
+MIDlet-Description: AirFighter Game by MIDP. 
+Created-By: 1.4.19 (Sun Microsystems Inc.) 
+MIDlet-Vendor: Sun Microsystems, Inc. 
+MIDlet-Name: AirFighter 
+MIDlet-1: AirFighter, /resource/image/Logo_Icon.png, org.mygame.airfighter.midlet.AirFighterMIDlet

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-Version: 2.0
+MIDlet-Vendor: Sun Microsystems, Inc.
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Description: J2ME GAME
+MIDlet-Name: AirFighter
+MIDlet-1: AirFighter, /resource/image/Logo_Icon.png, org.mygame.airfighter.midlet.AirFighterMIDlet
