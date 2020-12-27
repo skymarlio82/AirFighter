@@ -1,5 +1,5 @@
 # AirFighter
-The J2ME like SNES Areo Fighter Game
+The J2ME like SNES Game :: Areo Fighter 
 
 ## How to use it
 - download a zip package of midp2.0fcs from Oracle JavaME
